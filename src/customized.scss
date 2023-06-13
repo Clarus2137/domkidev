@@ -1,0 +1,4 @@
+@use 'vuetify/settings' with ( // Size & count of steps for Vuetify margins and paddings
+  $spacer: 5px,
+  $spacers-steps: 15,
+);

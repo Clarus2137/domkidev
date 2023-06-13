@@ -1,0 +1,29 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.h1-text {
+   font-size: $text-h1-size;
+}
+
+
+
+
+
+// ----------XL Size----------
+@media(min-width: 1920px) {
+   .v-container {
+      max-width: 1920px;
+   }
+}
+
+
+
+// ----------XXL Size----------
+@media(min-width: 2560px) {
+   .v-container {
+      max-width: 2560px;
+   }
+}
